@@ -46,7 +46,7 @@
     "patch-package": "8.0.0",
     "pg": "8.5.1",
     "pprof": "4.0.0",
-    "qs": "6.12.1",
+    "qs": "6.14.1",
     "reflect-metadata": "0.1.13",
     "socket.io": "4.7.2",
     "socket.io-client": "4.7.5",
